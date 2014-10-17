@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mfx:home|Door43 (mfx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mfx|d43-mfx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mfx/archive/master.zip|d43-mfx.zip]]
+
+**Recent Changes**
+{{changes>ns = mfx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mfx|Ethnologue data]]
+
